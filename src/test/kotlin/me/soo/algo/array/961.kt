@@ -3,6 +3,7 @@ package me.soo.algo.array
 import org.amshove.kluent.shouldBeEqualTo
 import org.junit.jupiter.api.Test
 
+// https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 internal class `961` {
 
     @Test

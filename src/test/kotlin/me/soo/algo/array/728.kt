@@ -3,6 +3,7 @@ package me.soo.algo.array
 import org.amshove.kluent.shouldBeEqualTo
 import org.junit.jupiter.api.Test
 
+// https://leetcode.com/problems/self-dividing-numbers/
 internal class `728` {
 
     @Test
